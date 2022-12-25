@@ -107,6 +107,24 @@ text-indent: 50px;
 margin-right: 1%;
 }
 
+.finctions {
+color: #4000ff;
+font-family: 'Roboto', sans-serif;
+font-size: 18px;
+text-align: justify;
+text-indent: 50px;
+margin-right: 1%;
+}
+
+.finctions-menu {
+color: #f02f2f;
+font-family: 'Roboto', sans-serif;
+font-size: 18px;
+text-align: justify;
+text-indent: 50px;
+margin-right: 1%;
+}
+
 .shapka {
 background-image: url("../img/shapka.png");
 }
